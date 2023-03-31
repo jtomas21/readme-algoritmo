@@ -1,5 +1,8 @@
 # hola mundo este es mi algoritmo de como hacer stream en valorant
 
+
+(solo si tenemos los elementos necesario como PC, LUZ, INTERNET)
+
 1-  prender la PC
 
 2- abrir OBS (aplicacion de steam)
