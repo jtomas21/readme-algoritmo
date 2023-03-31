@@ -20,7 +20,7 @@
 
 10- stremear y jugar durante 3 horas 
 
-11- cerrar aplicaciones
+11- cerrar aplicaciones (OBS,VALORANT)
 
 12- apagar el PC
 
