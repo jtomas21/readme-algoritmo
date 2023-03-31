@@ -1,4 +1,27 @@
-# hola mundo este es mi readme de algoritmo
+# hola mundo este es mi algoritmo de como hacer stream en valorant
 
+1-  prender la PC
 
-. aqui hare un algoritmo pero no se me ocurre nada
+2- abrir ops (aplicacion de steam)
+
+3- poner el banner
+
+4- prender directo
+
+5- salir al escritorio
+
+6- abrir la aplicacion (valorant)
+
+7- intruducir usuario y contraseña
+
+8- actualizar el juego
+
+9- entrar al juego
+
+10- stremear y jugar durante 3 horas 
+
+11- cerrar aplicaciones
+
+12- apagar el PC
+
+FIN
