@@ -2,7 +2,7 @@
 
 1-  prender la PC
 
-2- abrir ops (aplicacion de steam)
+2- abrir OBS (aplicacion de steam)
 
 3- poner el banner
 
