@@ -28,3 +28,5 @@
 12- apagar el PC
 
 FIN
+
+# ESTO SALIO MAL
